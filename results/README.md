@@ -1,0 +1,1 @@
+# By default the results are saved in this folder
